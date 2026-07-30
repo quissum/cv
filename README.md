@@ -116,6 +116,8 @@ I understand the principles of Clean Code, DRY, component-based architecture, an
 
 ## Fundraising Platform
 
+💻 [**Repository**](https://github.com/quissum/fundraising-platform)
+
 **Technologies:** Next.js, React, Payload CMS, PostgreSQL, Docker, Git, Render, Vercel
 
 - Developed a web platform using Next.js and Payload CMS.
@@ -130,6 +132,9 @@ I understand the principles of Clean Code, DRY, component-based architecture, an
 ---
 
 ## SolarQuote Pro
+
+💻 [**Repository**](https://github.com/quissum/solarquote-pro)
+🌐 [**Live Demo**](solarquote-pro-one.vercel.app)
 
 **Technologies:** React, Next.js, JavaScript, REST API, PostgreSQL, Neon, Resend API, Vercel, Git
 
@@ -150,6 +155,8 @@ I understand the principles of Clean Code, DRY, component-based architecture, an
 
 ## SNDWRx – Interactive Commercial Website
 
+🌐 [**Live Demo**](https://sndwrx-clear.netlify.app)
+
 **Technologies:** JavaScript, GSAP, ScrollTrigger, Vimeo API, WordPress, HTML, CSS
 
 - Developed custom frontend functionality using JavaScript.
@@ -163,6 +170,8 @@ I understand the principles of Clean Code, DRY, component-based architecture, an
 ---
 
 ## Levia – E-commerce & CMS
+
+🌐 [**Live Demo**](https://drinklevia.com)
 
 **Technologies:** JavaScript, WordPress, WooCommerce, Storyblok, ACF
 
